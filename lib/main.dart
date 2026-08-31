@@ -198,7 +198,7 @@ class HotelCard extends StatelessWidget {
             child: Container(
               height: 30,
               decoration: BoxDecoration(
-                color: const Color(0xFF024383),
+                color: Colors.red,
                 borderRadius: BorderRadius.circular(18),
               ),
               alignment: Alignment.center,
